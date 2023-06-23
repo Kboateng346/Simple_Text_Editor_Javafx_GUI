@@ -131,7 +131,7 @@ txtEditor.setEditable(false);
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         //SET DEFAULT DIRECTORY FOR OPEN/SAVE DIALOG BOX
-        dialogbox.setInitialDirectory(new File("C:\\Users\\bjarm\\Desktop\\Java\\Class Project 10\\Save Default"));
+        dialogbox.setInitialDirectory(new File("C:\\Users\\kboat\\Simple_Text_Editor_Javafx_GUI\\Save Default"));
     }
 
 }
